@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Currently @ talus.bio (a seed-stage biotech startup working on drug development for gene regulators). I joined in early 2021 as first employee and have since been diving deep into the exciting world of biology.
-I'm interested in gene regulatory networks, bioelectricity and longevity.
+Currently @ retro.bio. I'm interested in gene regulatory networks, bioelectricity and longevity.
 
 #### Some stuff I've worked on:
 - [Semantic Podcast Search (using Lex Fridman's AI podcast)](https://github.com/ricomnl/podcast_search)
