@@ -12,6 +12,8 @@ While participating in the [How To Grow (Almost) Anything course](https://www.no
 - Protein structure analysis of KLF4 using nglview: [protein_structure_analysis](https://github.com/ricomnl/protein_structure_analysis) | [online docs](https://ricomnl.github.io/protein_structure_analysis/notebooks/analysis.html)
 
 #### Contributions:
+- [scvi-tools](https://github.com/scverse/scvi-tools)
+- [redun](https://github.com/insitro/redun)
 - During the bitsinbio hackathon in March '22, I contributed to [graphein](https://github.com/a-r-j/graphein)
 - EncyclopeDIA - a library search engine comprised of several algorithms for data independent acquisition (DIA) mass spectrometry data analysis: [encyclopedia](https://bitbucket.org/searleb/encyclopedia/src/master/)
 - Gopher - Gene ontology enrichment analysis using protein expression: [gopher](https://github.com/TalusBio/gopher)
