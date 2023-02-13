@@ -14,6 +14,7 @@ While participating in the [How To Grow (Almost) Anything course](https://www.no
 #### Contributions:
 - [scvi-tools](https://github.com/scverse/scvi-tools)
 - [redun](https://github.com/insitro/redun)
+- [kb_python](https://github.com/pachterlab/kb_python/pull/184)
 - During the bitsinbio hackathon in March '22, I contributed to [graphein](https://github.com/a-r-j/graphein)
 - EncyclopeDIA - a library search engine comprised of several algorithms for data independent acquisition (DIA) mass spectrometry data analysis: [encyclopedia](https://bitbucket.org/searleb/encyclopedia/src/master/)
 - Gopher - Gene ontology enrichment analysis using protein expression: [gopher](https://github.com/TalusBio/gopher)
