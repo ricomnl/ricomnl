@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Currently @ retro.bio. I'm interested in gene regulatory networks, bioelectricity and longevity.
+Currently leading the AI team @ retro.bio.
 
 #### Scientific Software
 - [nf-encyclopedia](https://github.com/TalusBio/nf-encyclopedia) - A NextFlow pipeline for chromatogram library DIA proteomics workflows
